@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Medal_Balance_Manager</string>
+    <string name="date_text">日付</string>
+    <string name="medal_text">メダル</string>
+    <string name="register_text">登録</string>
+    <string name="store_text">店舗</string>
 </resources>
